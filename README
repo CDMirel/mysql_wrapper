@@ -1,1 +1,2 @@
 A simple PHP wrapper for mysql functions
+Requires: PHP 5.x
